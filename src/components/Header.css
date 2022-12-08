@@ -1,0 +1,13 @@
+.header {
+  background-color: var(--primary);
+  color: var(--white);
+  box-shadow: var(--bs-base);
+}
+
+.header__title {
+  font-size: var(--fs-700);
+  margin: 0 auto;
+  max-width: 96rem;
+  padding-block: 2rem;
+  width: calc(100% - 6rem);
+}

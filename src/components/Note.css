@@ -1,0 +1,38 @@
+.note {
+  background-color: var(--white);
+  border-radius: var(--br-base);
+  box-shadow: var(--bs-base);
+  padding-block: 1.5rem;
+  padding-inline: 2rem;
+  width: 100%;
+  max-width: 30rem;
+}
+
+.note__title,
+.note__content {
+  margin: 0;
+  word-wrap: break-word;
+}
+
+.note__title {
+  font-size: var(--fs-500);
+  padding-bottom: 1rem;
+}
+
+.note__btn {
+  background: none;
+  border: 0;
+  color: var(--gray);
+  font-family: inherit;
+  font-size: var(--fs-300);
+  margin-left: auto;
+  margin-top: 1rem;
+  padding: 0;
+  display: block;
+  transition: color 125ms ease;
+  cursor: pointer;
+}
+
+.note__btn:hover {
+  color: var(--primary);
+}

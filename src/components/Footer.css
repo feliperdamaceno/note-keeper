@@ -1,0 +1,11 @@
+.footer {
+  color: var(--gray);
+  text-align: center;
+  width: 100%;
+}
+
+.footer__message {
+  margin: 0;
+  padding-block: 1.5rem;
+  padding-inline: 3rem;
+}

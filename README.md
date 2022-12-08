@@ -4,7 +4,7 @@
 
 This Note Keeper app was made in React in order to put everything I've learned about this new technology in the last months.
 
-[Demo Here](https://feliperdamaceno.github.io/note-keeper/)
+[Demo Here](https://feliperdamaceno.github.io/note-keeper)
 
 ## Licence
 
