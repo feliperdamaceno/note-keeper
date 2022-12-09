@@ -1,7 +1,9 @@
 .note {
   background-color: var(--white);
+  -webkit-border-radius: var(--br-base);
+  -moz-border-radius: var(--br-base);
   border-radius: var(--br-base);
-  box-shadow: var(--bs-base);
+  filter: drop-shadow(var(--bs-base));
   padding-block: 1.5rem;
   padding-inline: 2rem;
   width: 100%;

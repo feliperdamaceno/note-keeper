@@ -1,7 +1,7 @@
 .header {
   background-color: var(--primary);
   color: var(--white);
-  box-shadow: var(--bs-base);
+  filter: drop-shadow(var(--bs-base));
 }
 
 .header__title {
