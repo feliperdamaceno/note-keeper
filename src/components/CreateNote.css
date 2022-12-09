@@ -48,6 +48,8 @@
   bottom: -2rem;
   transition: transform 100ms ease;
   cursor: pointer;
+  display: grid;
+  place-content: center;
 }
 
 .create-note__btn:hover {
