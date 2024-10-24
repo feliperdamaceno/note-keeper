@@ -1,31 +1,21 @@
-## App: Note Keeper
+## Note Keeper
 
 ![page-showcase](app-showcase/app-showcase.gif)
 
-This Note Keeper app was made in React in order to put everything I've learned about this new technology in the last months.
+This project is a React note keeper app inspired by Google Keep. It uses local storage to store and manage notes, showcasing my ability to create functional and responsive applications.
 
 [Demo Here](https://feliperdamaceno.github.io/note-keeper)
 
 ## Licence
 
-This repository is released under the [**MIT License**](LICENSE).
-
-## From me to you
-
-Hi, my name is **Felipe!**
-
-I'm a Front-End student who wants to share my learning with the community, helping other devs in the same situation.
-
-At the moment I'm studying by myself in 💻 online courses, 📄 reading the documentation, and 💪 hard practicing every day. So if I can, **you could too!**
-
-I hope you've enjoyed this repository and have helped you in some way.
-
-Thanks for checking out and have good learning 😉"
+This is an open-source project and is available under the [**MIT License**](LICENSE). You are free to use, modify, and distribute the code in accordance with the terms of the license.
 
 ## Contributors
 
-[feliperdamaceno](https://github.com/feliperdamaceno/)
+Contributions are highly appreciated! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+[feliperdamaceno](https://github.com/feliperdamaceno)
 
 ## Contact me
 
-Linkedin: [feliperdamaceno](https://www.linkedin.com/in/feliperdamaceno/)
+Linkedin: [feliperdamaceno](https://www.linkedin.com/in/feliperdamaceno)
